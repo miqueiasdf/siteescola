@@ -1,6 +1,11 @@
-.lista-menu {display: none;
-     position: absolute;
-     top: 100%;}
- .container_botao :checked ~ .lista-menu {display: block;}
+@import url("styles/header.css");
 
-.cabeçalho {background-color: red}  
+@import url("styles/banner.css");
+:root{
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+    --laranja: #EB9B00;
+
+
+    
+}
